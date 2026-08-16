@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" type="device">
+  <diagram name="Music Database Platform ERD" id="eraser-export">
+    <mxGraphModel dx="800" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=ERone;endArrow=ERmany;strokeColor=#000000" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="49" y="182" as="sourcePoint" />
+            <mxPoint x="229" y="52" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="139" y="182" />
+              <mxPoint x="139" y="52" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=ERone;endArrow=ERmany;strokeColor=#000000" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="463" y="280" as="sourcePoint" />
+            <mxPoint x="644" y="264" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="559" y="280" />
+              <mxPoint x="559" y="264" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=ERone;endArrow=ERmany;strokeColor=#000000" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="877" y="20" as="sourcePoint" />
+            <mxPoint x="1069" y="66" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="973" y="20" />
+              <mxPoint x="973" y="66" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=ERone;endArrow=ERmany;strokeColor=#000000" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="463" y="280" as="sourcePoint" />
+            <mxPoint x="1069" y="104" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="559" y="280" />
+              <mxPoint x="559" y="104" />
+              <mxPoint x="766" y="104" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=ERone;endArrow=ERmany;strokeColor=#000000" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="889" y="226" as="sourcePoint" />
+            <mxPoint x="1069" y="142" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="973" y="226" />
+              <mxPoint x="973" y="142" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=ERone;endArrow=ERmany;strokeColor=#000000" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="49" y="182" as="sourcePoint" />
+            <mxPoint x="244" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="139" y="182" />
+              <mxPoint x="139" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=ERone;endArrow=ERmany;strokeColor=#000000" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="20" y="581" as="sourcePoint" />
+            <mxPoint x="244" y="518" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="139" y="581" />
+              <mxPoint x="139" y="518" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=ERone;endArrow=ERmany;strokeColor=#000000" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="463" y="280" as="sourcePoint" />
+            <mxPoint x="661" y="622" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="584" y="280" />
+              <mxPoint x="584" y="622" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=ERone;endArrow=ERmany;strokeColor=#000000" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="20" y="581" as="sourcePoint" />
+            <mxPoint x="661" y="660" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="346" y="581" />
+              <mxPoint x="533" y="581" />
+              <mxPoint x="533" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

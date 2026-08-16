@@ -1,0 +1,37 @@
+@startuml
+
+left to right direction
+
+actor Guest
+actor User
+
+rectangle "Music Database Platform" {
+
+usecase "Register"
+usecase "Login"
+usecase "Search"
+usecase "View Artist"
+usecase "View Album"
+usecase "View Song"
+usecase "Rate Album"
+usecase "Rate Song"
+usecase "View Profile"
+
+}
+
+Guest --> "Register"
+Guest --> "Login"
+Guest --> "Search"
+Guest --> "View Artist"
+Guest --> "View Album"
+Guest --> "View Song"
+
+User --> "Search"
+User --> "View Artist"
+User --> "View Album"
+User --> "View Song"
+User --> "Rate Album"
+User --> "Rate Song"
+User --> "View Profile"
+
+@enduml
